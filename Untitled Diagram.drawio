@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T21:33:33.608Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="n-isAp_Qq7YXY4VsHCpt" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-06T22:23:20.085Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="UT7PdOQNIB-UZZDJClA-" version="20.8.16" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="5065" dy="2031" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3059" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -165,7 +165,7 @@
         <mxCell id="pqqLsQ6eoNQw1_Vk68uV-63" value="Complete OTP Request" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-10" y="525" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pqqLsQ6eoNQw1_Vk68uV-66" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;1.&amp;nbsp; Where does the system end and gets to human interaction.&lt;br&gt;&amp;nbsp;&lt;br&gt;2. Is there a need for a management system to record all activities ( those who have won etc. ) or we will get a separate management system for that&amp;nbsp;&lt;br&gt;&lt;br&gt;3.&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="pqqLsQ6eoNQw1_Vk68uV-66" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;1.&amp;nbsp; Where does the system end and gets to human interaction.&lt;br&gt;&amp;nbsp;&lt;br&gt;2. Is there a need for a management system to record all activities ( those who have won etc. ) or we will get a separate management system for that&amp;nbsp;&lt;br&gt;&lt;br&gt;3. What is the difference between this and betting . what will make it betting that will need to pass through gaming commission&amp;nbsp;&lt;br&gt;&lt;br&gt;4. have you found a payment gateway we can work with&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1470" y="10" width="450" height="450" as="geometry" />
         </mxCell>
         <mxCell id="pqqLsQ6eoNQw1_Vk68uV-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=25;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pqqLsQ6eoNQw1_Vk68uV-69" target="pqqLsQ6eoNQw1_Vk68uV-38">
